@@ -1,5 +1,10 @@
 # Go-Sort-It-Out
 
+| Tests |
+|:-----:|
+| [![Tests](https://github.com/markusewalker/go-sort-it-out/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/markusewalker/go-sort-it-out/actions/workflows/run-tests.yml) |
+
+
 Go-Sort-It-Out is a basic sorting algorithm CLI built using Cobra. As of now, it supports the following sorting algorithms:
 
 - Bubble sort
